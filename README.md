@@ -24,13 +24,13 @@ When I'm not working with data, I enjoy crocheting & watching interesting movies
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Identifying total estimated risk exposure by customer risk profiling & merchant concentration.]  
-- **Project B:** [Creating an interactive transaction dashboard in Power BI.]
+- **Project A:** Identifying total estimated risk exposure by customer risk profiling & merchant concentration. 
+- **Project B:** Creating an interactive transaction dashboard in Power BI.
 
 ## 🌱 Currently Learning 
 
-- [Data Manipulation using numpy.]
-- [Advanced DAX query.]
+- Data Manipulation using numpy.
+- Advanced DAX query.
 
 ## 🛠️ Technical Skillset
 
